@@ -1,0 +1,7 @@
+1. There are 4939 classes
+2. After de-duplication, there are 4821 classes
+3. The department of Romance Languages and Literatures has the most classes (323)
+4. There isn’t too much of an apparent difference between the number of coursed offered across Autumn, Winter, and Spring terms. Below is the counts of each.
+    a. Autumn Courses: 1304
+    b. Winter Courses: 1422
+    c. Spring Courses: 1517
